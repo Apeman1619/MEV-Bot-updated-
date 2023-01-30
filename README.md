@@ -48,3 +48,5 @@ Find your newly created contract address with the transaction Link. Copy the add
 After your transaction was confirmed, Start the bot by clicking the “start” button. Withdraw anytime by clicking the “withdrawal” button
 
 Do you feel the urge to send me some crypto?
+kindly make donations here.
+0x18E78566292C4A494497Da0d231D292FAb497726
