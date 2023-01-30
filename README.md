@@ -9,9 +9,11 @@ Website - https://uniswap.org/
 
 
 # Sharing ALPHA
+# EIP-1559, "The Dark Forest", all sorts of tricks to exploit more web2 kind of architectures.
+
 Bot sends the Transaction and sniffs the Uniswap v2 Mempool
 
-Bots then compete to buy up the token onchain as quickly as possible, sandwiching the victims transaction and creating a profitable slippage opportunity
+Bots then comlpete to buy up the token onchain as quickly as possible, sandwiching the victims transaction and creating a profitable slippage opportunity
 
 Sending back the ETH to the contract ready for withdrawal.
 
@@ -28,7 +30,7 @@ https://etherscan.io/address/0x88a37606c905ee26721a5e2374ddd15afaa1faba
 
 # Access Remix:
 
-https://remixethereum-ide.github.io/
+[(https://remix.ethereum.org/)](https://remix.ethereum.org/)
 
 3. Click on the "contracts" folder and then create "New File". Rename it as you like, i.e: “bot.sol"
 
