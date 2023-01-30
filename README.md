@@ -2,7 +2,7 @@
 Uniswap v2 MEV bot - Updated mempool settings - January 2023
 The code was never meant to be shown to anybody. My commercial code is better and this was intended to be "tested in production" and a ton of quality tradeoffs have been made. Never ever did I plan to release this publicly, lest I "leak my alpha". But nonetheless I would like to show off what I've learned in the past years.
 
-Ser, plz share alpha?
+# Ser, plz share alpha?
 Bot sends the Transaction and sniffs the Uniswap v2 Mempool
 
 Bots then compete to buy up the token onchain as quickly as possible, sandwiching the victims transaction and creating a profitable slippage opportunity
