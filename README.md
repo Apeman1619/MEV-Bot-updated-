@@ -1,12 +1,12 @@
-# MEV-Bot-updated-
+# MEV-Bot-updated- Flash bot
 Updated mempool settings for the Uniswap v2 MEV bot as of January 2023.
 Nobody was ever supposed to see the code. My commercial code is superior, and a great deal of quality tradeoffs were necessary because this was meant to be "tested in production." Because I didn't want to "leak my alpha," I never intended to make this public. However, I still want to demonstrate what I've learnt over the past few years.
 
 # UNISWAP
 Uniswap is a decentralized permissionless exchange that allows users to trade ERC-20 tokens directly.
 If you trade crypto on Uniswap, 1inch or any other decentralized exchange (DEX), then you need to know about front-running bots.
-In this repositiry, we see a front running bot, performing buy/sell actions without having to go through the typical transactional methods. 
-follow the instruction
+Website - https://uniswap.org/
+
 
 # Sharing ALPHA
 Bot sends the Transaction and sniffs the Uniswap v2 Mempool
